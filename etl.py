@@ -1,9 +1,3 @@
-#------------------//^.^// -------------------#
-
-def remove_aspas_duplas(valor):
-    return valor.strip('"')
-
-
 # Criando o dicionário de atores
 atores = {}
 
